@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2048599987890585915",
+    "created_at": "2026-04-28T02:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048955524851347562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947850335760093187",
+          "start": 0,
+          "username": "Allen9727760773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048955524851347562",
+    "in_reply_to_user_id": "1947850335760093187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048785759344468300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen9727760773 门锁已经被我爸拆了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2048599987890585915",
+        "created_at": "2026-04-28T02:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048955524851347562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947850335760093187",
+              "start": 0,
+              "username": "Allen9727760773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048955524851347562",
+        "in_reply_to_user_id": "1947850335760093187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048785759344468300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen9727760773 门锁已经被我爸拆了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947850335760093187",
+        "conversation_id": "2048599987890585915",
+        "created_at": "2026-04-27T15:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048785759344468300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048785759344468300",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048599987890585915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 关门锁门，把自己放在尽量小，尽量黑，尽量安静的环境里，会好很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "已转生 寻回互关中 永远纪念@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（二世寻回推友",
+        "pinned_tweet_id": "2047917232542425452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 268,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 48
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T02:44:57.000Z",
+        "description": "od 药理学 心理学 玄学 \n任何问题都可以来问我，我不会拒绝任何一个礼貌的来访者\n六爻 八字 塔罗 精通 曾经有自己的小摊 欢迎来找我看看未来\n重抑中焦 环性心境",
+        "id": "1947850335760093187",
+        "location": "阿比斯第七层",
+        "name": "王Allen",
+        "pinned_tweet_id": "2035335043586134510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947850392127344640/G68OC7Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 118,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 420
+        },
+        "username": "Allen9727760773",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2049728704524308557",
+    "created_at": "2026-04-30T05:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049730010785726934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505680259974574080",
+          "start": 0,
+          "username": "yujiduantianmo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049730010785726934",
+    "in_reply_to_user_id": "1505680259974574080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049729222873350239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujiduantianmo1 😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2049728704524308557",
+        "created_at": "2026-04-30T05:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049730010785726934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505680259974574080",
+              "start": 0,
+              "username": "yujiduantianmo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049730010785726934",
+        "in_reply_to_user_id": "1505680259974574080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049729222873350239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujiduantianmo1 😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505680259974574080",
+        "conversation_id": "2049728704524308557",
+        "created_at": "2026-04-30T05:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049729222873350239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049729222873350239",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049728704524308557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 恭喜(●⁰౪⁰●)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "大号@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜",
+        "pinned_tweet_id": "2047917232542425452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 283,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 71
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T22:59:05.000Z",
+        "description": "米孝子/性压抑/鸡奸未行犯/百合豚/特摄小鬼/知识恋物癖/无我丑角/龟男/权力意志破产者/世俗猪/伪善者/圣母婊/人文主义小丑/精神太监/四爱实践失败者/狗汉奸/看似斯文败类实则文化有限/红色刽子手帮凶/nosy bitch",
+        "id": "1505680259974574080",
+        "location": "猿猴到超人的锁链",
+        "name": "闪山云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047206882058907648/_jH8dtxx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 383,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 3417
+        },
+        "username": "yujiduantianmo1",
+        "verified": false
+      }
+    ]
+  }
+}

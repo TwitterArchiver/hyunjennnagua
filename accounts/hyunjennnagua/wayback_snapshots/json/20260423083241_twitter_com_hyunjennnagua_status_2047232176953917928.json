@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047232129449230336",
+        "3_2047232129449279488",
+        "3_2047232129449304064"
+      ]
+    },
+    "author_id": "2034479048370352131",
+    "conversation_id": "2047232176953917928",
+    "created_at": "2026-04-23T08:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047232176953917928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xcfkeyuQFz",
+          "end": 34,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2047232176953917928/photo/1",
+          "media_key": "3_2047232129449230336",
+          "start": 11,
+          "url": "https://t.co/xcfkeyuQFz"
+        },
+        {
+          "display_url": "pic.x.com/xcfkeyuQFz",
+          "end": 34,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2047232176953917928/photo/1",
+          "media_key": "3_2047232129449279488",
+          "start": 11,
+          "url": "https://t.co/xcfkeyuQFz"
+        },
+        {
+          "display_url": "pic.x.com/xcfkeyuQFz",
+          "end": 34,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2047232176953917928/photo/1",
+          "media_key": "3_2047232129449304064",
+          "start": 11,
+          "url": "https://t.co/xcfkeyuQFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047232176953917928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是南瓜我大号被锁了 https://t.co/xcfkeyuQFz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047232129449230336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk6xmiWgAA6wkf.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2047232129449279488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk6xmiXQAA5Jx9.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2047232129449304064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk6xmiXoAA6QbN.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047232129449230336",
+            "3_2047232129449279488",
+            "3_2047232129449304064"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2047232176953917928",
+        "created_at": "2026-04-23T08:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047232176953917928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcfkeyuQFz",
+              "end": 34,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2047232176953917928/photo/1",
+              "media_key": "3_2047232129449230336",
+              "start": 11,
+              "url": "https://t.co/xcfkeyuQFz"
+            },
+            {
+              "display_url": "pic.x.com/xcfkeyuQFz",
+              "end": 34,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2047232176953917928/photo/1",
+              "media_key": "3_2047232129449279488",
+              "start": 11,
+              "url": "https://t.co/xcfkeyuQFz"
+            },
+            {
+              "display_url": "pic.x.com/xcfkeyuQFz",
+              "end": 34,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2047232176953917928/photo/1",
+              "media_key": "3_2047232129449304064",
+              "start": 11,
+              "url": "https://t.co/xcfkeyuQFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047232176953917928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是南瓜我大号被锁了 https://t.co/xcfkeyuQFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "",
+        "id": "2034479048370352131",
+        "name": "瓜南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 57,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 26
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

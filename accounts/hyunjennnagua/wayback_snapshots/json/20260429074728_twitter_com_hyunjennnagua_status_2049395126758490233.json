@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2049362269109436809",
+    "created_at": "2026-04-29T07:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049395126758490233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036455347565846528",
+          "start": 0,
+          "username": "lingsu001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049395126758490233",
+    "in_reply_to_user_id": "2036455347565846528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049380315060392296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingsu001 🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2049362269109436809",
+        "created_at": "2026-04-29T07:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049395126758490233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036455347565846528",
+              "start": 0,
+              "username": "lingsu001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049395126758490233",
+        "in_reply_to_user_id": "2036455347565846528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049380315060392296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingsu001 🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036455347565846528",
+        "conversation_id": "2049362269109436809",
+        "created_at": "2026-04-29T06:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049380315060392296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049380315060392296",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049362269109436809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 好萌🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "已转生 寻回互关中 永远纪念@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（二世寻回推友",
+        "pinned_tweet_id": "2047917232542425452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 279,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 60
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T14:49:37.000Z",
+        "description": "",
+        "id": "2036455347565846528",
+        "location": "精卫",
+        "name": "lingsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042107628793597952/OFb9HRWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 120,
+          "like_count": 1876,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 188
+        },
+        "username": "lingsu001",
+        "verified": false
+      }
+    ]
+  }
+}

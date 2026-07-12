@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2048203659486400537",
+    "created_at": "2026-04-26T00:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T01:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048203659486400537"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048203659486400537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到底为什么啊…我那个号上还有好多已经死去的朋友…msk我恨你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2048203659486400537",
+        "created_at": "2026-04-26T00:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048203659486400537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048203659486400537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底为什么啊…我那个号上还有好多已经死去的朋友…msk我恨你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "已转生 寻回互关中 永远纪念@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（二世巡回推友",
+        "pinned_tweet_id": "2047917232542425452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 144,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

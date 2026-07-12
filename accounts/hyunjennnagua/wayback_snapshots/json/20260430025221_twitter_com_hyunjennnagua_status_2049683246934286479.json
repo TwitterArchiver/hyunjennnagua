@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2048617446362276307",
+    "created_at": "2026-04-30T02:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049683246934286479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818503849541578752",
+          "start": 0,
+          "username": "warma_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049683246934286479",
+    "in_reply_to_user_id": "1818503849541578752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049573550147641594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warma_official 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_2049573267900362752",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHGMBy5WcAAhDBF.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHGMBy5WcAAhDBF.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2048617446362276307",
+        "created_at": "2026-04-30T02:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049683246934286479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818503849541578752",
+              "start": 0,
+              "username": "warma_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049683246934286479",
+        "in_reply_to_user_id": "1818503849541578752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049573550147641594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warma_official 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2049573267900362752"
+          ]
+        },
+        "author_id": "1818503849541578752",
+        "conversation_id": "2048617446362276307",
+        "created_at": "2026-04-29T19:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049573550147641594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tivfyFxFIU",
+              "end": 74,
+              "expanded_url": "https://x.com/warma_official/status/2049573550147641594/photo/1",
+              "media_key": "16_2049573267900362752",
+              "start": 51,
+              "url": "https://t.co/tivfyFxFIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049573550147641594",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048617446362276307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 别不开心了...那个..那个！我给你表演一个橘派气功！看好了...哈！ https://t.co/tivfyFxFIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "已转生 寻回互关中 永远纪念@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（二世寻回推友",
+        "pinned_tweet_id": "2047917232542425452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 281,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T04:28:07.000Z",
+        "description": "宇宙第一的大元帅MOKA！/\n“元帅最近似乎有中二病！”我的副官最近这么说我！气死了！/\n我最近在推特大街游荡 为了认识很多有趣的人！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "imoka.com",
+                "end": 23,
+                "expanded_url": "http://imoka.com",
+                "start": 0,
+                "url": "https://t.co/M38SvexDHD"
+              }
+            ]
+          }
+        },
+        "id": "1818503849541578752",
+        "location": "那个有外星人的星球",
+        "name": "MOKA",
+        "pinned_tweet_id": "2045196337701163266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026815407924146176/vkUaIZbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 38,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 990
+        },
+        "url": "https://t.co/M38SvexDHD",
+        "username": "warma_official",
+        "verified": false
+      }
+    ]
+  }
+}

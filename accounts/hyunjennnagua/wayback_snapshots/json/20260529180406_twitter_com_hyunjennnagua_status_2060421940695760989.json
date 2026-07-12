@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060421919778713600"
+      ]
+    },
+    "author_id": "2034479048370352131",
+    "conversation_id": "2060421940695760989",
+    "created_at": "2026-05-29T18:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060421940695760989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eZw20Viecy",
+          "end": 46,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2060421940695760989/photo/1",
+          "media_key": "3_2060421919778713600",
+          "start": 23,
+          "url": "https://t.co/eZw20Viecy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060421940695760989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "提交申诉已经被人机自动回复了…那个号已经废了 https://t.co/eZw20Viecy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060421919778713600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgW0cfWsAAmppO.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060421919778713600"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2060421940695760989",
+        "created_at": "2026-05-29T18:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060421940695760989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eZw20Viecy",
+              "end": 46,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2060421940695760989/photo/1",
+              "media_key": "3_2060421919778713600",
+              "start": 23,
+              "url": "https://t.co/eZw20Viecy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060421940695760989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提交申诉已经被人机自动回复了…那个号已经废了 https://t.co/eZw20Viecy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "",
+        "id": "2034479048370352131",
+        "name": "南瓜",
+        "pinned_tweet_id": "2051607569928470549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 279,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 86
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

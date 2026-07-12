@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2060996655701193211",
+    "created_at": "2026-05-31T15:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061113836770566345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894156503260839936",
+          "start": 0,
+          "username": "imxiiastt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061113836770566345",
+    "in_reply_to_user_id": "1894156503260839936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061089729773457747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imxiiastt 我有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2060996655701193211",
+        "created_at": "2026-05-31T15:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061113836770566345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894156503260839936",
+              "start": 0,
+              "username": "imxiiastt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061113836770566345",
+        "in_reply_to_user_id": "1894156503260839936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061089729773457747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imxiiastt 我有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894156503260839936",
+        "conversation_id": "2060996655701193211",
+        "created_at": "2026-05-31T14:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061089729773457747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061089729773457747",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060996655701193211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 我蹲一天了我哭死啊 我去脆看看有了给你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "",
+        "id": "2034479048370352131",
+        "name": "南瓜2.0（寻回互关",
+        "pinned_tweet_id": "2060422254966501641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 338,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 99
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T22:44:46.000Z",
+        "description": "推し活",
+        "id": "1894156503260839936",
+        "name": "Heae",
+        "pinned_tweet_id": "2051612952009310679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042619743455391744/Zd7uFSlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 26,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "username": "imxiiastt",
+        "verified": false
+      }
+    ]
+  }
+}

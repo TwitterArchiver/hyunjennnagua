@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034871482602692608"
+      ]
+    },
+    "author_id": "2034479048370352131",
+    "conversation_id": "2034871571450372513",
+    "created_at": "2026-03-20T05:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T06:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034871571450372513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s7ITyMiBv8",
+          "end": 27,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2034871571450372513/video/1",
+          "media_key": "13_2034871482602692608",
+          "start": 4,
+          "url": "https://t.co/s7ITyMiBv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034871571450372513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好多狗 https://t.co/s7ITyMiBv8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3470,
+        "height": 1280,
+        "media_key": "13_2034871482602692608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034871482602692608/img/wCaxDb2DYrekexmz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034871482602692608/vid/avc1/320x568/mo4Any4ZK4id_rsY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034871482602692608/vid/avc1/480x852/pEuxgFBC_PLzm5Wj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034871482602692608/vid/avc1/720x1280/Z6Uqm7GY48eDAzTa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034871482602692608/pl/2G3FmnvyJQoFnFaY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034871482602692608"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2034871571450372513",
+        "created_at": "2026-03-20T05:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034871571450372513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7ITyMiBv8",
+              "end": 27,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2034871571450372513/video/1",
+              "media_key": "13_2034871482602692608",
+              "start": 4,
+              "url": "https://t.co/s7ITyMiBv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034871571450372513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多狗 https://t.co/s7ITyMiBv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "大号@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034530099509493760/oCfyh3lV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

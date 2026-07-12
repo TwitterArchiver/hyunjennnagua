@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049728695430938624",
+        "3_2049728695397466112"
+      ]
+    },
+    "author_id": "2034479048370352131",
+    "conversation_id": "2049728704524308557",
+    "created_at": "2026-04-30T05:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049728704524308557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B6OSiUkYej",
+          "end": 30,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2049728704524308557/photo/1",
+          "media_key": "3_2049728695430938624",
+          "start": 7,
+          "url": "https://t.co/B6OSiUkYej"
+        },
+        {
+          "display_url": "pic.x.com/B6OSiUkYej",
+          "end": 30,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2049728704524308557/photo/1",
+          "media_key": "3_2049728695397466112",
+          "start": 7,
+          "url": "https://t.co/B6OSiUkYej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049728704524308557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大号解封了！ https://t.co/B6OSiUkYej"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049728695430938624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIZY3kWAAAo_FH.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2049728695397466112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIZY3cXQAArbvz.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049728695430938624",
+            "3_2049728695397466112"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2049728704524308557",
+        "created_at": "2026-04-30T05:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049728704524308557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6OSiUkYej",
+              "end": 30,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2049728704524308557/photo/1",
+              "media_key": "3_2049728695430938624",
+              "start": 7,
+              "url": "https://t.co/B6OSiUkYej"
+            },
+            {
+              "display_url": "pic.x.com/B6OSiUkYej",
+              "end": 30,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2049728704524308557/photo/1",
+              "media_key": "3_2049728695397466112",
+              "start": 7,
+              "url": "https://t.co/B6OSiUkYej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049728704524308557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号解封了！ https://t.co/B6OSiUkYej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "已转生 寻回互关中 永远纪念@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（二世寻回推友",
+        "pinned_tweet_id": "2047917232542425452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 282,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 70
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

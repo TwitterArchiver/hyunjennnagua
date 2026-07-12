@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2048599158303420502",
+    "created_at": "2026-04-27T03:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048599158303420502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048393340048293888",
+          "start": 3,
+          "username": "Numiouo2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bsky.app/profile/numiou…",
+          "end": 97,
+          "expanded_url": "https://bsky.app/profile/numiouo.bsky.social",
+          "start": 74,
+          "status": 200,
+          "title": "糯米糖纸🍬 (@numiouo.bsky.social)",
+          "unwound_url": "https://bsky.app/profile/numiouo.bsky.social",
+          "url": "https://t.co/O8Bknz67mb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048599158303420502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048395168970387758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouo2: 我是糯米，大号和小号都被禁言中\n此账号暂时不发布任何精神病相关内容\n我在bluesky🆔：numiouo（推特同号）\n\nhttps://t.co/O8Bknz67mb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2048599158303420502",
+        "created_at": "2026-04-27T03:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048599158303420502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048393340048293888",
+              "start": 3,
+              "username": "Numiouo2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/numiou…",
+              "end": 97,
+              "expanded_url": "https://bsky.app/profile/numiouo.bsky.social",
+              "start": 74,
+              "status": 200,
+              "title": "糯米糖纸🍬 (@numiouo.bsky.social)",
+              "unwound_url": "https://bsky.app/profile/numiouo.bsky.social",
+              "url": "https://t.co/O8Bknz67mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048599158303420502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048395168970387758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouo2: 我是糯米，大号和小号都被禁言中\n此账号暂时不发布任何精神病相关内容\n我在bluesky🆔：numiouo（推特同号）\n\nhttps://t.co/O8Bknz67mb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048393340048293888",
+        "conversation_id": "2048395168970387758",
+        "created_at": "2026-04-26T13:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048395168970387758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/numiou…",
+              "end": 83,
+              "expanded_url": "https://bsky.app/profile/numiouo.bsky.social",
+              "start": 60,
+              "status": 200,
+              "title": "糯米糖纸🍬 (@numiouo.bsky.social)",
+              "unwound_url": "https://bsky.app/profile/numiouo.bsky.social",
+              "url": "https://t.co/O8Bknz67mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048395168970387758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2589,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我是糯米，大号和小号都被禁言中\n此账号暂时不发布任何精神病相关内容\n我在bluesky🆔：numiouo（推特同号）\n\nhttps://t.co/O8Bknz67mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "已转生 寻回互关中 永远纪念@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（二世寻回推友",
+        "pinned_tweet_id": "2047917232542425452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 225,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:27:19.000Z",
+        "description": "bluesky🆔numiouo\n@Numiouo @Numiouo1 都是我\nfo受限制 没回fo就是还没刷新cd \n我爱你们 永远永远 其他的都不重要了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Numiouo"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "2048393340048293888",
+        "name": "糯米3.0（大号被害中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393697314979840/mkNygmZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 126,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "Numiouo2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2060391181628911839",
+    "created_at": "2026-05-29T16:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060391181628911839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "1965246583379034117",
+          "start": 16,
+          "username": "hyunjennagua"
+        }
+      ],
+      "urls": [
+        {
+          "description": "0 Followers • 1 Thread. See the latest conversations with @hyunjennagua.",
+          "display_url": "threads.com/@hyunjennagua?…",
+          "end": 73,
+          "expanded_url": "https://www.threads.com/@hyunjennagua?invite=0",
+          "start": 50,
+          "status": 200,
+          "title": "南瓜 (@hyunjennagua) • Threads, Say more",
+          "unwound_url": "https://www.threads.com/@hyunjennagua?invite=0",
+          "url": "https://t.co/A24lYyeXSI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060391181628911839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在 Threads 的账号是 @hyunjennagua 。安装应用就可以关注我的串文和回复哦。 https://t.co/A24lYyeXSI"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hyunjennagua].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hyunjennagua",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hyunjennagua"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2060391181628911839",
+        "created_at": "2026-05-29T16:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060391181628911839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1965246583379034117",
+              "start": 16,
+              "username": "hyunjennagua"
+            }
+          ],
+          "urls": [
+            {
+              "description": "0 Followers • 1 Thread. See the latest conversations with @hyunjennagua.",
+              "display_url": "threads.com/@hyunjennagua?…",
+              "end": 73,
+              "expanded_url": "https://www.threads.com/@hyunjennagua?invite=0",
+              "start": 50,
+              "status": 200,
+              "title": "南瓜 (@hyunjennagua) • Threads, Say more",
+              "unwound_url": "https://www.threads.com/@hyunjennagua?invite=0",
+              "url": "https://t.co/A24lYyeXSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060391181628911839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在 Threads 的账号是 @hyunjennagua 。安装应用就可以关注我的串文和回复哦。 https://t.co/A24lYyeXSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "",
+        "id": "2034479048370352131",
+        "name": "南瓜",
+        "pinned_tweet_id": "2051607569928470549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 278,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 84
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

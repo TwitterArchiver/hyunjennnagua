@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2060996655701193211",
+    "created_at": "2026-05-31T16:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061122053298651313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1534600140475887616",
+          "start": 0,
+          "username": "cc93023067"
+        },
+        {
+          "end": 22,
+          "id": "1894156503260839936",
+          "start": 12,
+          "username": "imxiiastt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/iyuu0o/status/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/iyuu0o/status/2058456811532108220",
+          "start": 25,
+          "url": "https://t.co/fdMvi3qnHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061122053298651313",
+    "in_reply_to_user_id": "1534600140475887616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058456811532108220",
+        "type": "quoted"
+      },
+      {
+        "id": "2061121111639928939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cc93023067 @imxiiastt 1 https://t.co/fdMvi3qnHQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2060996655701193211",
+        "created_at": "2026-05-31T16:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061122053298651313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1534600140475887616",
+              "start": 0,
+              "username": "cc93023067"
+            },
+            {
+              "end": 22,
+              "id": "1894156503260839936",
+              "start": 12,
+              "username": "imxiiastt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/iyuu0o/status/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/iyuu0o/status/2058456811532108220",
+              "start": 25,
+              "url": "https://t.co/fdMvi3qnHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061122053298651313",
+        "in_reply_to_user_id": "1534600140475887616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058456811532108220",
+            "type": "quoted"
+          },
+          {
+            "id": "2061121111639928939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cc93023067 @imxiiastt 1 https://t.co/fdMvi3qnHQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455776298333204480",
+        "conversation_id": "2058456811532108220",
+        "created_at": "2026-05-24T07:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058456811532108220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "coze.cn/s/uz_LrJp12qw",
+              "end": 23,
+              "expanded_url": "https://www.coze.cn/s/uz_LrJp12qw",
+              "start": 0,
+              "status": 200,
+              "title": "无数少女的真心 ✨ 爱豆模拟器",
+              "unwound_url": "https://static.coze.site/7641085297920409894-data_volume/files/%E6%89%80%E6%9C%89%E5%AF%B9%E8%AF%9D/%E4%B8%BB%E5%AF%B9%E8%AF%9D/%E7%88%B1%E8%B1%86%E6%A8%A1%E6%8B%9F%E5%99%A8/v2.html?sign=1781756367-dd370ad049-0-e95522e977c0a2e526e2bd66c7537a5b1eca1922b7963c3dd4aeac4330973d18",
+              "url": "https://t.co/pGNnQrcfWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058456811532108220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9536,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pGNnQrcfWJ\n爱豆模拟器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534600140475887616",
+        "conversation_id": "2060996655701193211",
+        "created_at": "2026-05-31T16:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061121111639928939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            },
+            {
+              "end": 25,
+              "id": "1894156503260839936",
+              "start": 15,
+              "username": "imxiiastt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061121111639928939",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061113836770566345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua @imxiiastt 老大我求一个，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "",
+        "id": "2034479048370352131",
+        "name": "南瓜2.0（寻回互关",
+        "pinned_tweet_id": "2060422254966501641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 338,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 101
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T18:16:14.000Z",
+        "description": "只爱你呀只喜欢你呀！",
+        "id": "1534600140475887616",
+        "name": "香菇大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058934101256892416/uuTkNuVe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 56,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 89
+        },
+        "username": "cc93023067",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T22:44:46.000Z",
+        "description": "推し活",
+        "id": "1894156503260839936",
+        "name": "Heae",
+        "pinned_tweet_id": "2051612952009310679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042619743455391744/Zd7uFSlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 26,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "username": "imxiiastt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T05:58:22.000Z",
+        "description": "你知道吗 鱼只有七秒钟记忆",
+        "id": "1455776298333204480",
+        "name": "鱼",
+        "pinned_tweet_id": "2049453769591763096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835722124129951744/moyvcbo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 59,
+          "like_count": 2050,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1353
+        },
+        "username": "iyuu0o",
+        "verified": false
+      }
+    ]
+  }
+}

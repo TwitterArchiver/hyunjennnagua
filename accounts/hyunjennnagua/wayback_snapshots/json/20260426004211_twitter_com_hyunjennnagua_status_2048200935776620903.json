@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2048200935776620903",
+    "created_at": "2026-04-26T00:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T01:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048200935776620903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyunjennnagua/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hyunjennnagua/status/2047917232542425452",
+          "start": 5,
+          "url": "https://t.co/Eth3jlG0by"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048200935776620903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047917232542425452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求帮转帖 https://t.co/Eth3jlG0by"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047917201441927168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGup2ClbsAA3QoR.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2048200935776620903",
+        "created_at": "2026-04-26T00:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048200935776620903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyunjennnagua/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hyunjennnagua/status/2047917232542425452",
+              "start": 5,
+              "url": "https://t.co/Eth3jlG0by"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048200935776620903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047917232542425452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求帮转帖 https://t.co/Eth3jlG0by"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047917201441927168"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2047917232542425452",
+        "created_at": "2026-04-25T05:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047917232542425452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1965246583379034117",
+              "start": 2,
+              "username": "hyunjennagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YFcMITYnc",
+              "end": 71,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2047917232542425452/photo/1",
+              "media_key": "3_2047917201441927168",
+              "start": 48,
+              "url": "https://t.co/3YFcMITYnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047917232542425452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3162,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "大号@hyunjennagua 被人举报永久封禁 现在我要巡回推友\n\n请大家帮我转帖！谢谢🥺🥺 https://t.co/3YFcMITYnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "",
+        "id": "2034479048370352131",
+        "name": "南瓜（二世巡回推友",
+        "pinned_tweet_id": "2047917232542425452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 144,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

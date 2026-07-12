@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060326304595996678"
+      ]
+    },
+    "author_id": "2034479048370352131",
+    "conversation_id": "2060326359478534397",
+    "created_at": "2026-05-29T11:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060326359478534397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UixELeErTD",
+          "end": 36,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2060326359478534397/photo/1",
+          "media_key": "3_2060326304595996678",
+          "start": 13,
+          "url": "https://t.co/UixELeErTD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060326359478534397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又被冻结了…算了不想玩了 https://t.co/UixELeErTD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060326304595996678",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe_26LWcAY-pxR.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060326304595996678"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2060326359478534397",
+        "created_at": "2026-05-29T11:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060326359478534397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UixELeErTD",
+              "end": 36,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2060326359478534397/photo/1",
+              "media_key": "3_2060326304595996678",
+              "start": 13,
+              "url": "https://t.co/UixELeErTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060326359478534397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又被冻结了…算了不想玩了 https://t.co/UixELeErTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "",
+        "id": "2034479048370352131",
+        "name": "南瓜",
+        "pinned_tweet_id": "2051607569928470549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 277,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 83
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

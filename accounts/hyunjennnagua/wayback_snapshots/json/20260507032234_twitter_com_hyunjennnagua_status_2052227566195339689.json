@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2052227566195339689",
+    "created_at": "2026-05-07T03:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052227566195339689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyunjennnagua/…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/hyunjennnagua/status/2052226630827860215",
+          "start": 143,
+          "url": "https://t.co/YAGOfNR86u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052227566195339689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052226630827860215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠我准备打这段话的时候又忘记自己要说什么了我的记忆不好了 我昨天吃了医生开的药还是没睡多久 我怀疑了自己没吃药但是我确确实实的吃了 我打这几段字的时候反复深呼吸抬头尽量不要让自己哭出来 我真的好怕我爸啊我怕我哭出来的时候我爸看见监控直接到我房间里来不过也可能没有监控也有可能你们也是 https://t.co/YAGOfNR86u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2052227566195339689",
+        "created_at": "2026-05-07T03:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052227566195339689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyunjennnagua/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/hyunjennnagua/status/2052226630827860215",
+              "start": 143,
+              "url": "https://t.co/YAGOfNR86u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052227566195339689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052226630827860215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠我准备打这段话的时候又忘记自己要说什么了我的记忆不好了 我昨天吃了医生开的药还是没睡多久 我怀疑了自己没吃药但是我确确实实的吃了 我打这几段字的时候反复深呼吸抬头尽量不要让自己哭出来 我真的好怕我爸啊我怕我哭出来的时候我爸看见监控直接到我房间里来不过也可能没有监控也有可能你们也是 https://t.co/YAGOfNR86u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2052226630827860215",
+        "created_at": "2026-05-07T03:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052226630827860215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyunjennnagua/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/hyunjennnagua/status/2052225728918208980",
+              "start": 143,
+              "url": "https://t.co/2v2BRQzVhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052226630827860215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052225728918208980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也不知道为何我要用得意这个形容词而且我不知道这个手机严格意义上算不算他的手机了 虽然是她自己花钱买的但是他最后不要了给她爸了又给我了 唉好烦呀 打上一段字的时候又字数限制了好无语 我一直在控制自己的情绪在日常生活中尽量让别人不要看出我的情绪不是很好可是在推特上不用这样让我感到很放松 https://t.co/2v2BRQzVhy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "大号@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜",
+        "pinned_tweet_id": "2051607569928470549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 293,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

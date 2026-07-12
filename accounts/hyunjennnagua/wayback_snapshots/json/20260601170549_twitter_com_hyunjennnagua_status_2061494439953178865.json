@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2061494439953178865",
+    "created_at": "2026-06-01T17:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061494439953178865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061494439953178865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061358354761703467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 我完全尊重X规则，真的。但规则之下应当有更多人性。很多人离世前受到的其中一个折磨甚至是无法寻回的账号。\n\n如果要用这样的办法阻止负能量宣传，难道不是让更多绝望的摇摇欲坠的人坠落？？？违规可以删，永久剥夺大家的存在痕迹实在是太残忍了，我见到太多互关因为…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2061494439953178865",
+        "created_at": "2026-06-01T17:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061494439953178865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061494439953178865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061358354761703467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 我完全尊重X规则，真的。但规则之下应当有更多人性。很多人离世前受到的其中一个折磨甚至是无法寻回的账号。\n\n如果要用这样的办法阻止负能量宣传，难道不是让更多绝望的摇摇欲坠的人坠落？？？违规可以删，永久剥夺大家的存在痕迹实在是太残忍了，我见到太多互关因为…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2061358354761703467",
+        "created_at": "2026-06-01T08:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061358354761703467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061358354761703467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2338,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我完全尊重X规则，真的。但规则之下应当有更多人性。很多人离世前受到的其中一个折磨甚至是无法寻回的账号。\n\n如果要用这样的办法阻止负能量宣传，难道不是让更多绝望的摇摇欲坠的人坠落？？？违规可以删，永久剥夺大家的存在痕迹实在是太残忍了，我见到太多互关因为封号精神崩溃的了。\n本末倒置"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "",
+        "id": "2034479048370352131",
+        "name": "南瓜2.0（寻回互关",
+        "pinned_tweet_id": "2060422254966501641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 341,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕歌同类查成分回fo🩵漏fo戳我🩵我素non-binary喵 友跨友全部 爱与和平🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 577,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 769
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

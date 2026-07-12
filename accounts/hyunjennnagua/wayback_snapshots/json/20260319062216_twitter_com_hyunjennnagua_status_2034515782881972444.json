@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2034480663148085626",
+    "created_at": "2026-03-19T06:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034515782881972444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967962536000753666",
+          "start": 0,
+          "username": "FUHGRC8964"
+        },
+        {
+          "end": 25,
+          "id": "1965246583379034117",
+          "start": 12,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034515782881972444",
+    "in_reply_to_user_id": "1967962536000753666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034513745490444649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FUHGRC8964 @hyunjennagua 直接回关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2034480663148085626",
+        "created_at": "2026-03-19T06:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034515782881972444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967962536000753666",
+              "start": 0,
+              "username": "FUHGRC8964"
+            },
+            {
+              "end": 25,
+              "id": "1965246583379034117",
+              "start": 12,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034515782881972444",
+        "in_reply_to_user_id": "1967962536000753666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034513745490444649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FUHGRC8964 @hyunjennagua 直接回关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967962536000753666",
+        "conversation_id": "2034480663148085626",
+        "created_at": "2026-03-19T06:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034513745490444649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            },
+            {
+              "end": 28,
+              "id": "2034479048370352131",
+              "start": 14,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034513745490444649",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034480663148085626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua @hyunjennnagua 欧坤呀我也是直接关注你了好吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "大号@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034479398326620160/vBkFSNz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 23,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T14:43:37.000Z",
+        "description": "在首页—我的家园—家园果实—图鉴解锁后使用，活动或家园果实可获得碎片。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cultsphil",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cultsphil",
+                "start": 0,
+                "url": "https://t.co/jBwePHUXbF"
+              }
+            ]
+          }
+        },
+        "id": "1967962536000753666",
+        "location": "迷拉星",
+        "name": "袁世凱愛歐帝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011620687623094272/DI5lY0RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 73,
+          "like_count": 48367,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2047
+        },
+        "url": "https://t.co/jBwePHUXbF",
+        "username": "FUHGRC8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 592,
+          "like_count": 3113,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

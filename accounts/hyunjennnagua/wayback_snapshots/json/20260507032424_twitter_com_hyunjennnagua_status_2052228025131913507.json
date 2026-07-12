@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2052228025131913507",
+    "created_at": "2026-05-07T03:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052228025131913507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyunjennnagua/…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/hyunjennnagua/status/2052227566195339689",
+          "start": 106,
+          "url": "https://t.co/K7ajSx8Tjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052228025131913507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052227566195339689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也有可能你们也是我爸安装的监控不过没可能也有可能我为什么要这么想你们啊呜呜呜我真讨厌我自己你们明明对我这么好 话说回来这个号不是要写自己要对医生说的话却怕忘记于是记录到这里的吗怎么又变成吐槽的了 不过应该也算吧 https://t.co/K7ajSx8Tjs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2052228025131913507",
+        "created_at": "2026-05-07T03:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052228025131913507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyunjennnagua/…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/hyunjennnagua/status/2052227566195339689",
+              "start": 106,
+              "url": "https://t.co/K7ajSx8Tjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052228025131913507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052227566195339689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也有可能你们也是我爸安装的监控不过没可能也有可能我为什么要这么想你们啊呜呜呜我真讨厌我自己你们明明对我这么好 话说回来这个号不是要写自己要对医生说的话却怕忘记于是记录到这里的吗怎么又变成吐槽的了 不过应该也算吧 https://t.co/K7ajSx8Tjs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2052227566195339689",
+        "created_at": "2026-05-07T03:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052227566195339689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyunjennnagua/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/hyunjennnagua/status/2052226630827860215",
+              "start": 143,
+              "url": "https://t.co/YAGOfNR86u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052227566195339689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052226630827860215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠我准备打这段话的时候又忘记自己要说什么了我的记忆不好了 我昨天吃了医生开的药还是没睡多久 我怀疑了自己没吃药但是我确确实实的吃了 我打这几段字的时候反复深呼吸抬头尽量不要让自己哭出来 我真的好怕我爸啊我怕我哭出来的时候我爸看见监控直接到我房间里来不过也可能没有监控也有可能你们也是 https://t.co/YAGOfNR86u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "大号@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜",
+        "pinned_tweet_id": "2051607569928470549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 293,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}
