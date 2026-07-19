@@ -7,13 +7,6 @@
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 15,
-        "start": 2,
-        "username": "hyunjennagua"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2074082447646732288/Om-DY2v4_normal.jpg"
 }
