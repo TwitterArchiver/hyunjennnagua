@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2086010645485621603",
+    "created_at": "2026-08-08T08:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T09:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086010645485621603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561806114274287616",
+          "start": 3,
+          "username": "crossyangshe"
+        },
+        {
+          "end": 33,
+          "id": "2044793518267453440",
+          "start": 25,
+          "username": "lxxe11_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086010645485621603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085780050759328158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crossyangshe: 重新用日本朋友@lxxe11_ 茅野酱的办法又写了一个自介，之前的不打算用了因为最近发生了很多事情，想要网址和模板的可以私信az（az被幽灵ban了回复消息看不见），实在不知道怎么用模板的打一块钱你说我帮你做QAQ https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2085777745427259392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIrzvybYAAR6rf.jpg",
+        "width": 2100
+      },
+      {
+        "height": 1524,
+        "media_key": "3_2085778462955204608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIsdgya8AAqc0l.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2086010645485621603",
+        "created_at": "2026-08-08T08:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086010645485621603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561806114274287616",
+              "start": 3,
+              "username": "crossyangshe"
+            },
+            {
+              "end": 33,
+              "id": "2044793518267453440",
+              "start": 25,
+              "username": "lxxe11_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086010645485621603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085780050759328158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crossyangshe: 重新用日本朋友@lxxe11_ 茅野酱的办法又写了一个自介，之前的不打算用了因为最近发生了很多事情，想要网址和模板的可以私信az（az被幽灵ban了回复消息看不见），实在不知道怎么用模板的打一块钱你说我帮你做QAQ https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085777745427259392",
+            "3_2085778462955204608"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2085780050759328158",
+        "created_at": "2026-08-07T17:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085780050759328158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044793518267453440",
+              "start": 7,
+              "username": "lxxe11_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGAl99SGCg",
+              "end": 131,
+              "expanded_url": "https://x.com/crossyangshe/status/2085780050759328158/photo/1",
+              "media_key": "3_2085777745427259392",
+              "start": 108,
+              "url": "https://t.co/oGAl99SGCg"
+            },
+            {
+              "display_url": "pic.x.com/oGAl99SGCg",
+              "end": 131,
+              "expanded_url": "https://x.com/crossyangshe/status/2085780050759328158/photo/1",
+              "media_key": "3_2085778462955204608",
+              "start": 108,
+              "url": "https://t.co/oGAl99SGCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085780050759328158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 418,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "重新用日本朋友@lxxe11_ 茅野酱的办法又写了一个自介，之前的不打算用了因为最近发生了很多事情，想要网址和模板的可以私信az（az被幽灵ban了回复消息看不见），实在不知道怎么用模板的打一块钱你说我帮你做QAQ https://t.co/oGAl99SGCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "前世：@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 452,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "location": "長沙",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 549,
+          "like_count": 4384,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1127
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:02:20.000Z",
+        "description": "05🚺｜双極性障害疑い｜精神科通院中｜ASDグレー｜中退2回｜高卒認定持ち中卒｜通信制大学生｜フォロワー相互初手呼びタメ🙆‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxxe11.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://lxxe11.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/I6Trdw9tL0"
+              }
+            ]
+          }
+        },
+        "id": "2044793518267453440",
+        "location": "質問など中身のある会話ならDM可",
+        "name": "茅野",
+        "pinned_tweet_id": "2056751048132603989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064738641780559872/6Kc-kQEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 38,
+          "like_count": 339,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2062
+        },
+        "url": "https://t.co/I6Trdw9tL0",
+        "username": "lxxe11_",
+        "verified": false
+      }
+    ]
+  }
+}

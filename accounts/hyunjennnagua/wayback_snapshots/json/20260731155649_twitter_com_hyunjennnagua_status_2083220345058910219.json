@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2083220345058910219",
+    "created_at": "2026-07-31T15:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083220345058910219"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083220345058910219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "八月和谁过最幸福? \n\n×前任          ×同学     ×智障\n\n×暧昧对象     ×渣女     ✓南瓜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2083220345058910219",
+        "created_at": "2026-07-31T15:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083220345058910219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083220345058910219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八月和谁过最幸福? \n\n×前任          ×同学     ×智障\n\n×暧昧对象     ×渣女     ✓南瓜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "前世：@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 428,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

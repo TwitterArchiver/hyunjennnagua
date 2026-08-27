@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2082776423656464700",
+    "created_at": "2026-07-30T15:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082855136158949516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2073778524276580352",
+          "start": 0,
+          "username": "lucakzpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082855136158949516",
+    "in_reply_to_user_id": "2073778524276580352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082843272670519324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucakzpi 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2082776423656464700",
+        "created_at": "2026-07-30T15:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082855136158949516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2073778524276580352",
+              "start": 0,
+              "username": "lucakzpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082855136158949516",
+        "in_reply_to_user_id": "2073778524276580352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082843272670519324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucakzpi 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073778524276580352",
+        "conversation_id": "2082776423656464700",
+        "created_at": "2026-07-30T14:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082843272670519324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082843272670519324",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082776423656464700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 我是冬瓜西瓜苦瓜丝瓜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078428671132725248/QmxIycrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 365,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:39:06.000Z",
+        "description": "我们的未来已经过期",
+        "id": "2073778524276580352",
+        "name": "宇宙无敌雷霆喵喵大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082052447619493888/0MOu8Y8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 38,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "lucakzpi",
+        "verified": false
+      }
+    ]
+  }
+}

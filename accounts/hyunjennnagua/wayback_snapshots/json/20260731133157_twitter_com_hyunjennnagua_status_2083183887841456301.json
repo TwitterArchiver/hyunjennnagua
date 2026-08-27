@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2083094097750057358",
+    "created_at": "2026-07-31T13:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083183887841456301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1543072342447771650",
+          "start": 0,
+          "username": "qsmhls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083183887841456301",
+    "in_reply_to_user_id": "1543072342447771650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083161729870246056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qsmhls 兄弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2083094097750057358",
+        "created_at": "2026-07-31T13:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083183887841456301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1543072342447771650",
+              "start": 0,
+              "username": "qsmhls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083183887841456301",
+        "in_reply_to_user_id": "1543072342447771650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083161729870246056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qsmhls 兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543072342447771650",
+        "conversation_id": "2083094097750057358",
+        "created_at": "2026-07-31T12:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083161729870246056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083161729870246056",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083094097750057358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 南瓜你怎么这么好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "前世：@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 425,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T03:21:36.000Z",
+        "description": "皮下男 皮下男 皮下男\n双相情感障碍 边缘型人格障碍/自伤/od/摄影\n 沙卵妹控一个 我的老婆包括但不限于和泉纱雾，谷风天音，七草荠（患七草荠cos ptsd），五更琉璃，桐生瑞叶\n请务必关注防炸@sagirinoinu\nあなた：@kuma02150128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "sagirinoinu"
+              },
+              {
+                "end": 129,
+                "start": 116,
+                "username": "kuma02150128"
+              }
+            ]
+          }
+        },
+        "id": "1543072342447771650",
+        "name": "和泉紗霧の犬",
+        "pinned_tweet_id": "2082784476699246832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075529433537261569/1q4VlaTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 168,
+          "like_count": 5334,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2215
+        },
+        "url": "",
+        "username": "qsmhls",
+        "verified": false
+      }
+    ]
+  }
+}

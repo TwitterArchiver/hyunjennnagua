@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082857659309678593"
+      ]
+    },
+    "author_id": "2034479048370352131",
+    "conversation_id": "2082857674576908527",
+    "created_at": "2026-07-30T15:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082857674576908527"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MUFiztueeG",
+          "end": 28,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2082857674576908527/photo/1",
+          "media_key": "3_2082857659309678593",
+          "start": 5,
+          "url": "https://t.co/MUFiztueeG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082857674576908527",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/MUFiztueeG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2082857659309678593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfMAXTa4AEQRju.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082857659309678593"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2082857674576908527",
+        "created_at": "2026-07-30T15:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082857674576908527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUFiztueeG",
+              "end": 28,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2082857674576908527/photo/1",
+              "media_key": "3_2082857659309678593",
+              "start": 5,
+              "url": "https://t.co/MUFiztueeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082857674576908527",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/MUFiztueeG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 375,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

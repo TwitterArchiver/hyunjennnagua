@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2083184413857431740",
+    "created_at": "2026-08-01T05:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083419777050329217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491630454730293248",
+          "start": 0,
+          "username": "yalishandayiwa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083419777050329217",
+    "in_reply_to_user_id": "1491630454730293248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083246069304201490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yalishandayiwa1 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2083184413857431740",
+        "created_at": "2026-08-01T05:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083419777050329217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491630454730293248",
+              "start": 0,
+              "username": "yalishandayiwa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083419777050329217",
+        "in_reply_to_user_id": "1491630454730293248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083246069304201490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yalishandayiwa1 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491630454730293248",
+        "conversation_id": "2083184413857431740",
+        "created_at": "2026-07-31T17:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083246069304201490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083246069304201490",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083184413857431740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 吃！我可以给你把瓜劈开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "前世：@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 434,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T04:30:02.000Z",
+        "description": "单亲父亲家有女儿\n超级杂食来这里只是看喜欢看的东西和回复有意思的。请互相尊重 生理男心理男异性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yalishandayiwa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yalishandayiwa1",
+                "start": 0,
+                "url": "https://t.co/OEApHneRdu"
+              }
+            ]
+          }
+        },
+        "id": "1491630454730293248",
+        "location": "苏丹后宫",
+        "name": "树莓鼠",
+        "pinned_tweet_id": "2083411913975988332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025655970349871104/v2373Lp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 303,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/OEApHneRdu",
+        "username": "yalishandayiwa1",
+        "verified": false
+      }
+    ]
+  }
+}

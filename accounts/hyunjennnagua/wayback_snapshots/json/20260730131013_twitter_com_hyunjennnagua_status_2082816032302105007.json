@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2082776423656464700",
+    "created_at": "2026-07-30T13:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082816032302105007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685284677605597184",
+          "start": 0,
+          "username": "miiikuhatsure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082816032302105007",
+    "in_reply_to_user_id": "1685284677605597184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082810021252153579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miiikuhatsure 应该是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2082776423656464700",
+        "created_at": "2026-07-30T13:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082816032302105007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685284677605597184",
+              "start": 0,
+              "username": "miiikuhatsure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082816032302105007",
+        "in_reply_to_user_id": "1685284677605597184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082810021252153579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miiikuhatsure 应该是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685284677605597184",
+        "conversation_id": "2082776423656464700",
+        "created_at": "2026-07-30T12:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082810021252153579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082810021252153579",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082776423656464700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 怎么又被ban了 是不是昨天那个帖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078428671132725248/QmxIycrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 365,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T13:42:45.000Z",
+        "description": "我们必须想象西西弗斯是幸福的",
+        "id": "1685284677605597184",
+        "location": "距離您0.1km",
+        "name": "༼´༎ຶ𓂏༎ຶ༽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055715997315960832/gpMquT_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 349,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1377
+        },
+        "url": "",
+        "username": "miiikuhatsure",
+        "verified": false
+      }
+    ]
+  }
+}

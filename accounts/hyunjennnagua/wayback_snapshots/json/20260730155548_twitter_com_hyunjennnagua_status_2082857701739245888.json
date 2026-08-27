@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2082857701739245888",
+    "created_at": "2026-07-30T15:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082857701739245888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2034479048370352131",
+          "start": 3,
+          "username": "hyunjennnagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082857701739245888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082776423656464700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hyunjennnagua: 我是南瓜，互关寻回😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2082857701739245888",
+        "created_at": "2026-07-30T15:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082857701739245888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2034479048370352131",
+              "start": 3,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082857701739245888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082776423656464700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hyunjennnagua: 我是南瓜，互关寻回😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2082776423656464700",
+        "created_at": "2026-07-30T10:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082776423656464700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082776423656464700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是南瓜，互关寻回😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 375,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

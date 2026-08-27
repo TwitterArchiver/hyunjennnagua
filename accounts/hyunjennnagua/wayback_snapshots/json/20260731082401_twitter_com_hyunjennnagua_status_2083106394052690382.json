@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2083094097750057358",
+    "created_at": "2026-07-31T08:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083106394052690382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067984174469009409",
+          "start": 0,
+          "username": "lyxz738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083106394052690382",
+    "in_reply_to_user_id": "2067984174469009409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083098179701227666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxz738 我爱你❤️❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2083094097750057358",
+        "created_at": "2026-07-31T08:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083106394052690382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067984174469009409",
+              "start": 0,
+              "username": "lyxz738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083106394052690382",
+        "in_reply_to_user_id": "2067984174469009409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083098179701227666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxz738 我爱你❤️❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067984174469009409",
+        "conversation_id": "2083094097750057358",
+        "created_at": "2026-07-31T07:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083098179701227666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083098179701227666",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083094097750057358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 我操好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "前世：@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 415,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T14:54:22.000Z",
+        "description": "年龄未知｜od割手｜精分｜地雷女｜巡回好友中｜查成分互fo｜男的加我🚪13.14\n前世@lyxtd3s\n恋人@dooaisuan\n传送@bingkuaiy9lt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "lyxtd3s"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "bingkuaiy9lt"
+              }
+            ]
+          }
+        },
+        "id": "2067984174469009409",
+        "name": "冰块🧊3.0巡回互关",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075973822470365184/LPteQOZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 133,
+          "like_count": 2138,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "lyxz738",
+        "verified": false
+      }
+    ]
+  }
+}

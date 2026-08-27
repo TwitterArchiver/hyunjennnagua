@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2079090556714840506",
+    "created_at": "2026-07-21T15:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079584128429953238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767453480065839104",
+          "start": 0,
+          "username": "Lone_Wolf_CYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079584128429953238",
+    "in_reply_to_user_id": "1767453480065839104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079256073165591039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lone_Wolf_CYK 抱抱汪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2079090556714840506",
+        "created_at": "2026-07-21T15:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079584128429953238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767453480065839104",
+              "start": 0,
+              "username": "Lone_Wolf_CYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079584128429953238",
+        "in_reply_to_user_id": "1767453480065839104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079256073165591039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lone_Wolf_CYK 抱抱汪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767453480065839104",
+        "conversation_id": "2079090556714840506",
+        "created_at": "2026-07-20T17:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079256073165591039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079256073165591039",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079090556714840506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 抱抱……🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "135",
+        "pinned_tweet_id": "2060422254966501641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078428671132725248/QmxIycrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 359,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T07:32:24.000Z",
+        "description": "大薩摩耶 | 19 | ISSAO | 小帳:大貴賓狗 @YK_C_8964 | 如果沒有說就默默消失了，那麼薩薩便是已經離開了 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "YK_C_8964"
+              }
+            ]
+          }
+        },
+        "id": "1767453480065839104",
+        "location": "Taiwan",
+        "name": "YK C",
+        "pinned_tweet_id": "2046060980032225741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059903559278440448/DzORE7-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1580,
+          "like_count": 74040,
+          "listed_count": 4,
+          "media_count": 1807,
+          "tweet_count": 17108
+        },
+        "url": "",
+        "username": "Lone_Wolf_CYK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2082858303688966620",
+    "created_at": "2026-07-30T17:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082874917297770835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605538501705043968",
+          "start": 0,
+          "username": "yangyan_huntun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082874917297770835",
+    "in_reply_to_user_id": "1605538501705043968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082865122905862320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyan_huntun 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2082858303688966620",
+        "created_at": "2026-07-30T17:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082874917297770835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605538501705043968",
+              "start": 0,
+              "username": "yangyan_huntun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082874917297770835",
+        "in_reply_to_user_id": "1605538501705043968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082865122905862320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyan_huntun 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605538501705043968",
+        "conversation_id": "2082858303688966620",
+        "created_at": "2026-07-30T16:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082865122905862320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082865122905862320",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082858303688966620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 抱抱南瓜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "前世：@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 379,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T12:19:56.000Z",
+        "description": "INTP | 焦虑抑郁已确诊 | 喜扩列  | 06/185 |  bi男  |  可闲聊➕q，私聊找我要号，内容任意 | 细胞神曲 重返未来1999 起点精神病院 | oder | 术力口\n| 可以互fo私信我 | 我真的挺喜欢聊天的 | 什么都可以 \n好闺闺：jingjingjingovo\n下面是匿名提问，随便问捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangyan_huntun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangyan_huntun",
+                "start": 0,
+                "url": "https://t.co/TOedcgnzZn"
+              }
+            ]
+          }
+        },
+        "id": "1605538501705043968",
+        "location": "鸽子屋 基金会 重塑之手",
+        "name": "羊🐏言",
+        "pinned_tweet_id": "1804899894827884739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082867406079438849/4CGZuGv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 675,
+          "like_count": 5102,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/TOedcgnzZn",
+        "username": "yangyan_huntun",
+        "verified": false
+      }
+    ]
+  }
+}

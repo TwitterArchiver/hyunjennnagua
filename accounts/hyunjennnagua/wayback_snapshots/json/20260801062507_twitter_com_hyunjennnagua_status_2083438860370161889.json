@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2083433363168506313",
+    "created_at": "2026-08-01T06:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083438860370161889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083438860370161889",
+    "in_reply_to_user_id": "2034479048370352131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083433363168506313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我希望这个照片能火…因为我很满意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083433349520183296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnXl8daUAArjkL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2083433363168506313",
+        "created_at": "2026-08-01T06:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083438860370161889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083438860370161889",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083433363168506313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我希望这个照片能火…因为我很满意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083433349520183296"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2083433363168506313",
+        "created_at": "2026-08-01T06:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083433363168506313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Etxgsz7rEu",
+              "end": 23,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2083433363168506313/photo/1",
+              "media_key": "3_2083433349520183296",
+              "start": 0,
+              "url": "https://t.co/Etxgsz7rEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083433363168506313",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Etxgsz7rEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "前世：@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 437,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}

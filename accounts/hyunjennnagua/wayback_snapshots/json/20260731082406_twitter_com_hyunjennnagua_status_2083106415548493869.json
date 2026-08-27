@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034479048370352131",
+    "conversation_id": "2083094097750057358",
+    "created_at": "2026-07-31T08:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083106415548493869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2079977596159463424",
+          "start": 0,
+          "username": "tangkoko114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083106415548493869",
+    "in_reply_to_user_id": "2079977596159463424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083098632551907546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangkoko114 🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034479048370352131",
+        "conversation_id": "2083094097750057358",
+        "created_at": "2026-07-31T08:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083106415548493869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2079977596159463424",
+              "start": 0,
+              "username": "tangkoko114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083106415548493869",
+        "in_reply_to_user_id": "2079977596159463424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083098632551907546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangkoko114 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079977596159463424",
+        "conversation_id": "2083094097750057358",
+        "created_at": "2026-07-31T07:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083098632551907546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034479048370352131",
+              "start": 0,
+              "username": "hyunjennnagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083098632551907546",
+        "in_reply_to_user_id": "2034479048370352131",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083094097750057358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennnagua 😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "前世：@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 415,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-22T17:13:01.000Z",
+        "description": "全天绝赞发情中/上推纯看色/S 属性吧 大概是/主推少女乐队之类的 也算是个老资历/欢迎妹子随时加我搞色色！/欢迎随时私信我 应该每个都会回，基本全天在线 暑假闲/（求互 fo）",
+        "id": "2079977596159463424",
+        "location": "114514",
+        "name": "要乐奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080081604870098944/TePHTFeg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 137,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "tangkoko114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082051859083345921",
+        "3_2082051861692231680"
+      ],
+      "media_source_tweet_id": [
+        "2082051864233939255",
+        "2082051864233939255"
+      ]
+    },
+    "author_id": "2034479048370352131",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083584514262257798",
+    "created_at": "2026-08-01T16:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083584514262257798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2082048712696803328",
+          "start": 3,
+          "username": "BanLi_mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0wf1dQtcBj",
+          "end": 58,
+          "expanded_url": "https://x.com/BanLi_mi/status/2082051864233939255/photo/1",
+          "media_key": "3_2082051859083345921",
+          "start": 35,
+          "url": "https://t.co/0wf1dQtcBj"
+        },
+        {
+          "display_url": "pic.x.com/0wf1dQtcBj",
+          "end": 58,
+          "expanded_url": "https://x.com/BanLi_mi/status/2082051864233939255/photo/1",
+          "media_key": "3_2082051861692231680",
+          "start": 35,
+          "url": "https://t.co/0wf1dQtcBj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083584514262257798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082051864233939255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BanLi_mi: 我大号死了呀。许愿和前世互fo再续前缘。 https://t.co/0wf1dQtcBj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2082051859083345921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTvIniawAESPxu.jpg",
+        "width": 1072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082051861692231680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTvIxQbMAA9-J0.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082051859083345921",
+            "3_2082051861692231680"
+          ]
+        },
+        "author_id": "2082048712696803328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082051864233939255",
+        "created_at": "2026-07-28T10:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082051864233939255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wf1dQtcBj",
+              "end": 44,
+              "expanded_url": "https://x.com/BanLi_mi/status/2082051864233939255/photo/1",
+              "media_key": "3_2082051859083345921",
+              "start": 21,
+              "url": "https://t.co/0wf1dQtcBj"
+            },
+            {
+              "display_url": "pic.x.com/0wf1dQtcBj",
+              "end": 44,
+              "expanded_url": "https://x.com/BanLi_mi/status/2082051864233939255/photo/1",
+              "media_key": "3_2082051861692231680",
+              "start": 21,
+              "url": "https://t.co/0wf1dQtcBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082051864233939255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我大号死了呀。许愿和前世互fo再续前缘。 https://t.co/0wf1dQtcBj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082051859083345921",
+            "3_2082051861692231680"
+          ],
+          "media_source_tweet_id": [
+            "2082051864233939255",
+            "2082051864233939255"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083584514262257798",
+        "created_at": "2026-08-01T16:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083584514262257798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2082048712696803328",
+              "start": 3,
+              "username": "BanLi_mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wf1dQtcBj",
+              "end": 58,
+              "expanded_url": "https://x.com/BanLi_mi/status/2082051864233939255/photo/1",
+              "media_key": "3_2082051859083345921",
+              "start": 35,
+              "url": "https://t.co/0wf1dQtcBj"
+            },
+            {
+              "display_url": "pic.x.com/0wf1dQtcBj",
+              "end": 58,
+              "expanded_url": "https://x.com/BanLi_mi/status/2082051864233939255/photo/1",
+              "media_key": "3_2082051861692231680",
+              "start": 35,
+              "url": "https://t.co/0wf1dQtcBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083584514262257798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082051864233939255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BanLi_mi: 我大号死了呀。许愿和前世互fo再续前缘。 https://t.co/0wf1dQtcBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "前世：@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2082773280654815416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082857637671227392/Y-bGGuHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 447,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T10:23:25.000Z",
+        "description": "前世：@shanhu_mi \n叫我板栗就好！ \n年龄你猜。 od。zc。抽烟  \n我比较喜欢自言自语  \n欢迎同类互fo呀！ \n🚪52好友位和圈圈 🚪88 被动聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "shanhu_mi"
+              }
+            ]
+          }
+        },
+        "id": "2082048712696803328",
+        "name": "板栗2.0",
+        "pinned_tweet_id": "2082051864233939255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082049978130890752/Hb-XMAi3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "BanLi_mi",
+        "verified": false
+      }
+    ]
+  }
+}

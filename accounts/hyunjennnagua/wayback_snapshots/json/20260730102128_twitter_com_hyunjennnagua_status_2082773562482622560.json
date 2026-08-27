@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082773270240296960",
+        "3_2082773270223597568"
+      ],
+      "media_source_tweet_id": [
+        "2082773280654815416",
+        "2082773280654815416"
+      ]
+    },
+    "author_id": "2034479048370352131",
+    "conversation_id": "2082773562482622560",
+    "created_at": "2026-07-30T10:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082773562482622560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2034479048370352131",
+          "start": 3,
+          "username": "hyunjennnagua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NCUUl1QpBk",
+          "end": 74,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2082773280654815416/photo/1",
+          "media_key": "3_2082773270240296960",
+          "start": 51,
+          "url": "https://t.co/NCUUl1QpBk"
+        },
+        {
+          "display_url": "pic.x.com/NCUUl1QpBk",
+          "end": 74,
+          "expanded_url": "https://x.com/hyunjennnagua/status/2082773280654815416/photo/1",
+          "media_key": "3_2082773270223597568",
+          "start": 51,
+          "url": "https://t.co/NCUUl1QpBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082773562482622560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082773280654815416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hyunjennnagua: 我是南瓜 万恶的msk又把我账号封了我在此寻回互关求转帖可互转 https://t.co/NCUUl1QpBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082773270240296960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd_QRhaAAATy3e.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082773270223597568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd_QRdbMAALz9-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082773270240296960",
+            "3_2082773270223597568"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2082773280654815416",
+        "created_at": "2026-07-30T10:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082773280654815416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCUUl1QpBk",
+              "end": 55,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2082773280654815416/photo/1",
+              "media_key": "3_2082773270240296960",
+              "start": 32,
+              "url": "https://t.co/NCUUl1QpBk"
+            },
+            {
+              "display_url": "pic.x.com/NCUUl1QpBk",
+              "end": 55,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2082773280654815416/photo/1",
+              "media_key": "3_2082773270223597568",
+              "start": 32,
+              "url": "https://t.co/NCUUl1QpBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082773280654815416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是南瓜 万恶的msk又把我账号封了我在此寻回互关求转帖可互转 https://t.co/NCUUl1QpBk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082773270240296960",
+            "3_2082773270223597568"
+          ],
+          "media_source_tweet_id": [
+            "2082773280654815416",
+            "2082773280654815416"
+          ]
+        },
+        "author_id": "2034479048370352131",
+        "conversation_id": "2082773562482622560",
+        "created_at": "2026-07-30T10:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082773562482622560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2034479048370352131",
+              "start": 3,
+              "username": "hyunjennnagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCUUl1QpBk",
+              "end": 74,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2082773280654815416/photo/1",
+              "media_key": "3_2082773270240296960",
+              "start": 51,
+              "url": "https://t.co/NCUUl1QpBk"
+            },
+            {
+              "display_url": "pic.x.com/NCUUl1QpBk",
+              "end": 74,
+              "expanded_url": "https://x.com/hyunjennnagua/status/2082773280654815416/photo/1",
+              "media_key": "3_2082773270223597568",
+              "start": 51,
+              "url": "https://t.co/NCUUl1QpBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082773562482622560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082773280654815416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hyunjennnagua: 我是南瓜 万恶的msk又把我账号封了我在此寻回互关求转帖可互转 https://t.co/NCUUl1QpBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T03:57:06.000Z",
+        "description": "@hyunjennagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hyunjennagua"
+              }
+            ]
+          }
+        },
+        "id": "2034479048370352131",
+        "name": "南瓜（寻回互关",
+        "pinned_tweet_id": "2060422254966501641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078428671132725248/QmxIycrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 355,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "hyunjennnagua",
+        "verified": false
+      }
+    ]
+  }
+}
