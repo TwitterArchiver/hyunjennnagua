@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-09T08:55:00",
+  "last_updated": "2026-10-09T08:55:21",
   "html": {
     "https://web.archive.org/web/20260319042015if_/https://twitter.com/hyunjennnagua/status/2034485075203559660": {
       "status": "done",
@@ -2137,22 +2137,22 @@
       "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/1987800088887078912/4ClBQYDq_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260319081722_twitter_com_hyunjennnagua_status_2034544748497621040.json"
       ],
-      "last_updated": "2026-09-17T18:10:03",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319081722if_/https://pbs.twimg.com/profile_images/1987800088887078912/4ClBQYDq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7db0966990>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 12
+      "last_updated": "2026-10-09T08:55:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260319081722if_/https://pbs.twimg.com/profile_images/1987800088887078912/4ClBQYDq_normal.jpg",
+      "miss_count": 13
     },
     "https://pbs.twimg.com/profile_images/2034575049890680832/_EQQ8vH9_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260322055515_twitter_com_hyunjennnagua_status_2035596147729821990.json"
       ],
-      "last_updated": "2026-09-17T18:10:05",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322055515if_/https://pbs.twimg.com/profile_images/2034575049890680832/_EQQ8vH9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7db09887a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 12
+      "last_updated": "2026-10-09T08:55:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260322055515if_/https://pbs.twimg.com/profile_images/2034575049890680832/_EQQ8vH9_normal.jpg",
+      "miss_count": 13
     },
     "https://pbs.twimg.com/profile_images/1757687075501957121/AkWcu6eg_normal.jpg": {
       "status": "done",
@@ -2408,13 +2408,13 @@
       "last_updated": "2026-07-12T19:09:01"
     },
     "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260427020310_twitter_com_hyunjennnagua_status_2048583704503816221.json"
       ],
-      "last_updated": "2026-09-17T18:10:08",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427020310if_/https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7db0989940>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 12
+      "last_updated": "2026-10-09T08:55:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260427020310if_/https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+      "miss_count": 13
     },
     "https://pbs.twimg.com/profile_images/2041358000955518976/9zUWm5kR_normal.jpg": {
       "status": "done",
@@ -2457,18 +2457,18 @@
       "referenced_by": [
         "20260428105848_twitter_com_hyunjennnagua_status_2049080888571437200.json"
       ],
-      "last_updated": "2026-09-17T18:10:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428105848if_/https://pbs.twimg.com/profile_images/2047913417026256896/nhgiZEyi_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7db0988ad0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 12
+      "last_updated": "2026-10-09T08:55:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428105848if_/https://pbs.twimg.com/profile_images/2047913417026256896/nhgiZEyi_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f68c9b6e810>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 14
     },
     "https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260429053516_twitter_com_hyunjennnagua_status_2049361857409110048.json"
       ],
-      "last_updated": "2026-09-17T18:10:13",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429053516if_/https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7db0988fe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 11
+      "last_updated": "2026-10-09T08:55:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260429053516if_/https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg": {
       "status": "done",
@@ -2548,13 +2548,13 @@
       "last_updated": "2026-07-12T19:09:01"
     },
     "https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260430065808_twitter_com_hyunjennnagua_status_2049745097369993232.json"
       ],
-      "last_updated": "2026-09-17T18:10:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260430065808if_/https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7db09894c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 12
+      "last_updated": "2026-10-09T08:55:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260430065808if_/https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg",
+      "miss_count": 13
     },
     "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg": {
       "status": "done",
@@ -2601,14 +2601,14 @@
       "last_updated": "2026-07-12T19:09:01"
     },
     "https://pbs.twimg.com/profile_images/2041479149928493056/NsZ0LKCn_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260530052142_twitter_com_hyunjennnagua_status_2060592465359343817.json",
         "20260530052342_twitter_com_hyunjennnagua_status_2060592969837642075.json"
       ],
-      "last_updated": "2026-09-17T18:10:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530052342if_/https://pbs.twimg.com/profile_images/2041479149928493056/NsZ0LKCn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7db0964c50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 12
+      "last_updated": "2026-10-09T08:55:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260530052342if_/https://pbs.twimg.com/profile_images/2041479149928493056/NsZ0LKCn_normal.jpg",
+      "miss_count": 13
     },
     "https://pbs.twimg.com/profile_images/2060298141623271424/i-bZQQ1m_normal.jpg": {
       "status": "done",
@@ -3359,7 +3359,7 @@
       "miss_count": 2
     },
     "20260319081722_twitter_com_hyunjennnagua_status_2034544748497621040.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3368,7 +3368,7 @@
           "https://pbs.twimg.com/profile_images/1987800088887078912/4ClBQYDq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-09T08:55:00",
+      "last_updated": "2026-10-09T08:55:16",
       "miss_count": 12
     },
     "20260320055603_twitter_com_hyunjennnagua_status_2034871571450372513.json": {
@@ -3430,7 +3430,7 @@
       "miss_count": 12
     },
     "20260322055515_twitter_com_hyunjennnagua_status_2035596147729821990.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3439,7 +3439,7 @@
           "https://pbs.twimg.com/profile_images/2034575049890680832/_EQQ8vH9_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-09T08:55:00",
+      "last_updated": "2026-10-09T08:55:16",
       "miss_count": 12
     },
     "20260322085523_twitter_com_hyunjennnagua_status_2035641477804511639.json": {
@@ -3960,7 +3960,7 @@
       "last_updated": "2026-07-12T19:09:01"
     },
     "20260427020310_twitter_com_hyunjennnagua_status_2048583704503816221.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3970,7 +3970,7 @@
           "https://pbs.twimg.com/profile_images/2044355523835985920/3SvZJ1av_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-09T08:55:00",
+      "last_updated": "2026-10-09T08:55:16",
       "miss_count": 12
     },
     "20260427020326_twitter_com_hyunjennnagua_status_2048583769372979226.json": {
@@ -4171,7 +4171,7 @@
       "miss_count": 12
     },
     "20260429053516_twitter_com_hyunjennnagua_status_2049361857409110048.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -4180,7 +4180,7 @@
           "https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-09T08:55:00",
+      "last_updated": "2026-10-09T08:55:16",
       "miss_count": 12
     },
     "20260429053556_twitter_com_hyunjennnagua_status_2049362025281990674.json": {
@@ -4421,7 +4421,7 @@
       "last_updated": "2026-07-12T19:09:01"
     },
     "20260430065808_twitter_com_hyunjennnagua_status_2049745097369993232.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -4430,7 +4430,7 @@
           "https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-09T08:55:00",
+      "last_updated": "2026-10-09T08:55:16",
       "miss_count": 12
     },
     "20260430065813_twitter_com_hyunjennnagua_status_2049745117850837027.json": {
@@ -4794,7 +4794,7 @@
       "last_updated": "2026-07-12T19:09:01"
     },
     "20260530052142_twitter_com_hyunjennnagua_status_2060592465359343817.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -4803,7 +4803,7 @@
           "https://pbs.twimg.com/profile_images/2041479149928493056/NsZ0LKCn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-09T08:55:00",
+      "last_updated": "2026-10-09T08:55:16",
       "miss_count": 12
     },
     "20260530052151_twitter_com_hyunjennnagua_status_2060592503485514012.json": {
@@ -4819,7 +4819,7 @@
       "last_updated": "2026-07-12T19:09:02"
     },
     "20260530052342_twitter_com_hyunjennnagua_status_2060592969837642075.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -4828,7 +4828,7 @@
           "https://pbs.twimg.com/profile_images/2041479149928493056/NsZ0LKCn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-09T08:55:00",
+      "last_updated": "2026-10-09T08:55:16",
       "miss_count": 12
     },
     "20260530052943_twitter_com_hyunjennnagua_status_2060594483998134570.json": {
